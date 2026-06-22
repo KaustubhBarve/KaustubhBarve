@@ -6,8 +6,6 @@ I have Recently completed my MBA in Finance at **Athena School of Management, Mu
 
 My work is focused on understanding companies, sectors, and market trends by breaking down financial data into clear, practical insights. I enjoy researching Indian listed companies, tracking sector developments, and converting complex business information into simple, decision-useful outputs.
 
----
-
 ## 🔍 What I’m Interested In
 
 * Equity Research
@@ -18,8 +16,6 @@ My work is focused on understanding companies, sectors, and market trends by bre
 * Valuation
 * AI tools for finance workflows
 * Automating research, reports, and presentations
-
----
 
 ## 💼 Experience & Work
 
@@ -35,8 +31,6 @@ Key areas I work on:
 * Creating research slides and data-backed summaries
 * Following sectors such as Auto, EVs, Hotels, FMCG, and Consumer businesses
 
----
-
 ## 🛠️ What I’m Building / Learning
 
 I am exploring how AI can improve finance workflows, especially for students, analysts, and investors.
@@ -50,7 +44,6 @@ Some areas I am interested in building around:
 * Automated company one-pagers
 * Investment note generators
 * Finance learning tools for beginners
----
 
 ## 🚀 Current Goal
 
@@ -58,13 +51,9 @@ To grow as a finance professional by combining **equity research, financial anal
 
 I am actively learning how to use technology to make research faster, cleaner, and more useful — especially for company analysis, sector tracking, and financial content creation.
 
----
-
 ## 📫 Connect With Me
 
 * LinkedIn: [Kaustubh Barve](https://www.linkedin.com/in/kaustubh-barve/)
 
-
----
 
 > “Research is not just about numbers. It is about understanding the business behind the numbers.”
