@@ -19,7 +19,7 @@ My work is focused on understanding companies, sectors, and market trends by bre
 
 ## 💼 Experience & Work
 
-### Equity Research Intern — RK Advisory
+### Equity Research Intern @ RK Advisory
 
 Currently working on equity research, market tracking, company analysis, sector-specific research, and investment-oriented reports.
 
